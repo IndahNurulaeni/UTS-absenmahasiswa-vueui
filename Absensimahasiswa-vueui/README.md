@@ -1,4 +1,4 @@
-# absenmahasiswa-vueui
+# Absenmahasiswa-vueui
 
 ## Project setup
 ```
